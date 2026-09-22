@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are GlungOS Labs, a non-profit, open-source organization.
+We are Glungus Labs, a non-profit, open-source organization.
 
 We develop [GlungOS](https://github.com/glunguslabs/glungos), a hobby OS written from scratch for x86_64.
 
